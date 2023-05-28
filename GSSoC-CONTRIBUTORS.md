@@ -13,7 +13,7 @@ Please add your name and college above if you are a contributor:
 ## Contributors
 
 | Sr. No. | Contibutor's Name        | Contributor's College                                    |
-| :------ | :----------------------- | :------------------------------------------------------- |
+| :------ | :----------------------- | :------------------------------------------------------- | --- |
 | 1.      | Kapil                    | Amity University, Noida                                  |
 | 2.      | Ridhiman Kaur Dhindsa    | IIT Guwahati                                             |
 | 3.      | Tushar Banik             | IIT Guwahati                                             |
@@ -41,4 +41,4 @@ Please add your name and college above if you are a contributor:
 | 25.     | Vedant Bande             | IIIT Jabalpur                                            |
 | 26.     | Saloni Singh             | Galgotias University , Greater Noida                     |
 | 27.     | Laxmi                    | Sharda University, Greater Noida                         |
-| 28.     | Aryan Rana               | Vellore Institute of Technology (VIT)                    |
+| 28.     | Aryan Rana               | Vellore Institute of Technology (VIT)                    |     |
